@@ -1,0 +1,10 @@
+### amidiminder Rules file
+
+Logidy UMI3       --> bicycle:controllers
+Keystation 49e    --> bicycle:controllers
+Faderfox EC4      --> bicycle:controllers
+Elektron Digitakt --> bicycle:controllers
+
+Elektron Digitone <-- bicycle:synths
+Elektron Digitakt <-- bicycle:synths
+Moog Minitaur     <-- bicycle:synths
